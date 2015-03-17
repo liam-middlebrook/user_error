@@ -2,3 +2,7 @@ install:
   - sudo apt-get install texlive
 script:
   - pdflatex user_error.tex
+addons:
+  artifacts:
+    paths:
+    - user_error.pdf
