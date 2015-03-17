@@ -47,7 +47,7 @@ The first player marker starts with whomever last called IT or tech support.
 
 Deal a number of asset cards face up on the table equal to 2 $\times$ the number of players. Players take turns starting with the first player and continuing in a clockwise direction, buying a single asset at a time. This continues until no one wants to or is able to buy any more assets. Players are not forced to buy assets, though it is in their best interest to do so.
 
-Once initial acquisition is completed, deal enough asset cards face up until there are at least as many as to match the number of players.
+Once initial acquisition is completed, all remaining asset cards are shuffled back into the asset deck.
 
 \section*{Winning and Losing}
 
@@ -82,10 +82,39 @@ If an issue has a difficulty that exceeds your technician's skill by at least 4,
 
 \subsection*{Negotiation}
 
-Two contract cards are dealt face-up on the table.
+Two contract cards are dealt face-up on the table. Players now take turns bidding on the first dealt contract, starting with whomever has the lowest satisfaction (ties are broken by whomever is closest to the first player) and proceeding in a clockwise direction. Bidding may start at any number equal to or less than the budget value on the contract. Once there are no players willing to take the contract for less budget, the last player to bid wins the contract and earns whatever amount of budget they agreed to. The contract comes into effect immediately.
+This repeats again for the second contract that was dealt except that the player who just won the first contract may not bid on the second.
+
+\subsubsection*{Audits}
+
+If either contract that was dealt is an \emph{Audit} card, then an audit occurs. All abandoned contracts must be discarded and players who had those contracts lose any budget associated with them, firing any assets to make up for that loss of budget. Any assets that have \emph{audit risk} written on them are automatically fired as well, with the owning player gaining whatever budget those assets were worth.
+
+Once the audit is complete, the audit is discarded and a new contract is dealt to replace it. If multiple audits are dealt in the same negotiation phase, the subsequent audits are simply discarded and replaced until there are no audits in play.
 
 \subsection*{Acquisition}
 
+A number of asset cards equal to the number of players are dealt face-up onto the table. Players take turns purchasing assets with unused budget starting with the first player and continuing clockwise. Once an asset is purchased, another asset should be dealt onto the table to replace it. This phase continues until there are no more players willing to purchase assets.
+
+If there are already assets on the table from a previous round, additional assets should not be dealt.
+
 \subsection*{Evaluation}
+
+Each player loses satisfaction equal to the number of issues in their backlog. If any player is at full negative satisfaction, then the stability marker is moved a single space.
+
+The total number of issues in all players' backlogs is totaled. The stability marker is moved a number of spaced equal to half this number (rounded down).
+
+\section{Firing Assets}
+
+At any time during their turn, a player may decide to fire one of their assets. Doing so puts the asset in the discard pile and returns any budget used to buy that asset to the player.
+
+If at any time a player loses budget, they must fire enough assets to make up for that lost provided they don't have enough unspent budget to make up for the loss.
+
+\section{Abandoning Contracts}
+
+At any time during their turn, a player may choose to abandon a contract. Doing so allows the player to keep any budget associated with a contract while also ignoring any effects of the contract. The player should flip the contract face-down to signal that it is abandoned. Abandoned contracts cannot be un-abandoned.
+
+\section{Running out of cards}
+
+If at any time any of the decks are out of cards, the associated discard pile should be shuffled and used as the deck.
 
 \end{document}
