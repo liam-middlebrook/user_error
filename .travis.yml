@@ -1,8 +1,15 @@
+language: ruby
+rvm:
+  - 2.1.0
 install:
   - sudo apt-get install texlive
+  - gem install squib
 script:
   - pdflatex user_error.tex
+  - ruby deck.rb
+  - cp _output/test.pdf card_deck.pdf
 addons:
   artifacts:
     paths:
     - user_error.pdf
+    - card_deck.pdf
