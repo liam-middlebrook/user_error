@@ -43,17 +43,17 @@ Issue,Software Issue,,,User Error,User Error,FlavorTextHere
 Issue,Hardware Issue,,,User Error,User Error,FlavorTextHere
 Issue,Network Issue,,,User Error,User Error,FlavorTextHere
 Issue,Server Issue,,,User Error,User Error,FlavorTextHere
-Issue,Spiders,,,User Error,User Error,FlavorTextHere
-Issue,Government Consipracy,,,User Error,User Error,FlavorTextHere
-Issue,Wrong Number,,,Discard Immediately,,FlavorTextHere
+Issue,Spiders,,,User Error,User Error,"They built the WorldWideWeb!"
+Issue,Government Consipracy,,,User Error,User Error,"They put it in my computer, because I know too much"
+Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Equipment,Remote Desktop Service,2,Cost,+2 Skill to Resolve All Software Issues,Equipment,FlavorTextHere
 Equipment,Field Service Station,2,Cost,+2 Skill to Resolve All Hardware Issues,Equipment,FlavorTextHere
 Equipment,Network Diagnostic Tools,2,Cost,+2 Skill to Resolve All Network Issues,Equipment,FlavorTextHere
 Equipment,Phone Tree Labyrinth,3,Cost,-1 Cards at Dispatch,Equipment,FlavorTextHere
 Equipment,Test Server,2,Cost,+2 Skill to Resolve All Server Issues,Equipment,FlavorTextHere
 Equipment,Warm Transfer System,4,Cost,Can Immediately Assign Issues Referred to You if You Have Available Technicians,Equipment,FlavorTextHere
-Technician,Kiesha,1-1,Cost-Skill,Audit Risk. Reduce Csat by 1. Discard issue assigned to Kiesha,Technician,FlavorTextHere
-Technician,Jeff,3-4,Cost-Skill,Discard User Errors Assigned to Jeff.  Do Not Gain any Csat from Issues Resolved by Jeff,Technician,FlavorTextHere
+Technician,Kiesha,1-1,Cost-Skill,Audit Risk. Reduce Csat by 1. Discard issue assigned to Kiesha,Technician,. . . *click*
+Technician,Jeff,3-4,Cost-Skill,Discard User Errors Assigned to Jeff.  Do Not Gain any Csat from Issues Resolved by Jeff,Technician,"Your computer is not filled with spiders, you're just an idiot"
 Technician,Lucky Technician,1-2,Cost-Skill,Reroll One Failure,Technician,FlavorTextHere
 Technician,Technician,1-1,Cost-Skill,,Technician,FlavorTextHere
 Technician,Technician,1-2,Cost-Skill,,Technician,FlavorTextHere
@@ -64,8 +64,8 @@ Technician,Server Specialist,1-2,Cost-Skill,+1 to Resolve Server Issues,Technici
 Technician,Technician,1-2,Cost-Skill,,Technician,FlavorTextHere
 Technician,CS Student,1-4,Cost-Skill,Audit Risk,Technician,FlavorTextHere
 Technician,Bruce,1-0,Cost-Skill,"Audit Risk.  Can Refer Any Issue, Regardless of Difficulty or Contracts.",Technician,I'm Bill Gates!
-Technician,Bob,1-0,Cost-Skill,"Audit Risk.  Can Refer Any Issue, Regardless of Difficulty or Contracts.",Technician,FlavorTextHere
-Technician,Hacker,2-2,Cost-Skill,Audit Risk.  Reduce Stability by 1. Automatically Resolve Issue,Technician,FlavorTextHere
+Technician,Bob,1-0,Cost-Skill,"Audit Risk.  Can Refer Any Issue, Regardless of Difficulty or Contracts.",Technician,"Never trust the banks, those things are scams"
+Technician,Hacker,2-2,Cost-Skill,Audit Risk.  Reduce Stability by 1. Automatically Resolve Issue,Technician,Hack the Planet!
 Technician,Technician,2-4,Cost-Skill,,Technician,FlavorTextHere
 Technician,Technician,2-4,Cost-Skill,,Technician,FlavorTextHere
 Technician,Engineer,3-4,Cost-Skill,Can Reroll one Failure per Turn,Technician,FlavorTextHere
