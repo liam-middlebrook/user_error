@@ -39,10 +39,10 @@ Issue,Multiple User Software Issue,8,Difficulty,+1 Stability When Resolved,Softw
 Issue,Multiple User Hardware Issue,8,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
 Issue,Multiple User Network Issue,8,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
 Issue,Multiple User Server Issue,8,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
-Issue,Software Issue,,,User Error,User Error,FlavorTextHere
-Issue,Hardware Issue,,,User Error,User Error,FlavorTextHere
-Issue,Network Issue,,,User Error,User Error,FlavorTextHere
-Issue,Server Issue,,,User Error,User Error,FlavorTextHere
+Issue,Software Issue,,,User Error,User Error,"Why don't these toolbars make IE6 faster?"
+Issue,Hardware Issue,,,User Error,User Error,"I think this might be a VCR?"
+Issue,Network Issue,,,User Error,User Error,"I'm blocking all the cookies except for snickerdoodle"
+Issue,Server Issue,,,User Error,User Error,"You want to see my server? I haven't even been seated yet!"
 Issue,Spiders,,,User Error,User Error,"They built the WorldWideWeb!"
 Issue,Government Consipracy,,,User Error,User Error,"They put it in my computer, because I know too much"
 Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
