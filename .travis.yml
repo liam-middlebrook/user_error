@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.1.0
 install:
-  - sudo apt-get install texlive
+  - sudo apt-get install texlive texlive-latex-extra
   - gem install squib
 script:
   - pdflatex user_error.tex
