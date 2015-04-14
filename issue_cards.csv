@@ -94,3 +94,8 @@ Contract,Enhanced Software Procedures,7,Budget,+1 Difficulty of All Software Iss
 Contract,Enhanced Hardware Procedures,7,Budget,+1 Difficulty of All Hardware Issues,Contract,FlavorTextHere
 Contract,Enhanced Network Procedures,7,Budget,+1 Difficulty of All Network Issues,Contract,FlavorTextHere
 Contract,Enhanced Server Procedures,7,Budget,+1 Difficulty of All Server Issues,Contract,FlavorTextHere
+Contract,Bugzilla,8, Budget,"During evaluation lose 1 addiional CSat for each card in backlog in excess of four",Contract,FlavorTextHere
+Contract,Strict Software Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Software card in backlog in excess of four,Contract,FlavorTextHere
+Contract,Strict Hardware Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Hardware card in backlog in excess of four,Contract,FlavorTextHere
+Contract,Strict Network Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Network card in backlog in excess of four,Contract,FlavorTextHere
+Contract,Strict Server Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Server card in backlog in excess of four,Contract,FlavorTextHere

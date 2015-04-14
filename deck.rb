@@ -1,6 +1,6 @@
 require 'squib'
 
-Squib::Deck.new(cards: 96, layout: 'layout.yml') do
+Squib::Deck.new(cards: 100, layout: 'layout.yml') do
   background color: '#EEE'
   issues = csv file: 'issue_cards.csv'
   text range: :all, str: issues['Title'], layout: :Title
