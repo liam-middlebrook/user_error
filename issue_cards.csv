@@ -52,7 +52,7 @@ Equipment,Network Diagnostic Tools,2,Cost,+2 Skill to Resolve All Network Issues
 Equipment,Phone Tree Labyrinth,3,Cost,-1 Cards at Dispatch,Equipment,"To speak to an agent press -1"
 Equipment,Test Server,2,Cost,+2 Skill to Resolve All Server Issues,Equipment,"We should reboot the server. It's become self aware"
 Equipment,Warm Transfer System,4,Cost,Can Immediately Assign Issues Referred to You if You Have Available Technicians,Equipment,"Hi. Can you deal with this one?"
-Technician,Kiesha,1-1,Cost-Skill,Audit Risk. Reduce Csat by 1. Discard issue assigned to Kiesha,Technician,"Um. . ." *click*
+Technician,Kiesha,1-1,Cost-Skill,Audit Risk. Reduce Csat by 1. Discard issue assigned to Kiesha,Technician,"""Um. . ."" *click*"
 Technician,Jeff,3-4,Cost-Skill,Discard User Errors Assigned to Jeff.  Do Not Gain any Csat from Issues Resolved by Jeff,Technician,"Your computer is not filled with spiders, you're just an idiot"
 Technician,Lucky Technician,1-2,Cost-Skill,Reroll One Failure,Technician,A lot of these issues seem to fix themselves
 Technician,Technician,1-1,Cost-Skill,,Technician,Sometimes you just need an ass to fill the seat
