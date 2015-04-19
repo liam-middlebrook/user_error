@@ -49,8 +49,8 @@ Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Aliens,,,User Error,Aliens,They are abducting my emails
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Makes it someone else's problem
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Makes it someone else's problem
+Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
+Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
 Equipment,Remote Desktop Service,2,Cost,+2 Skill to Resolve All Software Issues,Equipment,Close your porn before calling for support
 Equipment,Field Service Station,2,Cost,+2 Skill to Resolve All Hardware Issues,Equipment,Like a Bat cave in every office
 Equipment,Network Diagnostic Tools,2,Cost,+2 Skill to Resolve All Network Issues,Equipment,FlavorTextHere
