@@ -88,7 +88,7 @@ Technician,Hardware Specialist,2-3,Cost-Skill,+2 to Resolve Hardware Issues,Tech
 Technician,Network Specialist,2-3,Cost-Skill,+2 to Resolve Network Issues,Technician,FlavorTextHere
 Technician,Server Specialist,2-3,Cost-Skill,+2 to Resolve Server Issues,Technician,FlavorTextHere
 Technician,Lois,2-3,Cost-Skill,Instead of working an issue: give another technician +3 skill until end of turn,Technician,FlavorTextHere
-Technician,Negotiator,2-2,Cost-Skill,If you do not assign a card to Negotiator you win ties when bidding on contracts this turn,FlavorTextHere
+Technician,Negotiator,2-2,Cost-Skill,If you do not assign a card to Negotiator you win ties when bidding on contracts this turn,Technician,FlavorTextHere
 Technician,Karen,1-1,Cost-Skill,+1 CSat when failing to resolve an issue,FlavorTextHere
 Contract,Server Wiring Specification,7,Budget,+1 Server Difficulty,Contract,
 Contract,Server Support,4,Budget,Can't Refer Server Issues,Contract,
