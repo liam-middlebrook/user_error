@@ -49,8 +49,8 @@ Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
 Issue,Aliens,,,User Error,Aliens,They are abducting my emails
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Makes it someone else's problem
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Makes it someone else's problem
+Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
+Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
 Equipment,Remote Desktop Service,2,Cost,+2 Skill to Resolve All Software Issues,Equipment,Close your porn before calling for support
 Equipment,Field Service Station,2,Cost,+2 Skill to Resolve All Hardware Issues,Equipment,Like a Bat cave in every office
 Equipment,Network Diagnostic Tools,2,Cost,+2 Skill to Resolve All Network Issues,Equipment,FlavorTextHere
@@ -88,8 +88,8 @@ Technician,Hardware Specialist,2-3,Cost-Skill,+2 to Resolve Hardware Issues,Tech
 Technician,Network Specialist,2-3,Cost-Skill,+2 to Resolve Network Issues,Technician,FlavorTextHere
 Technician,Server Specialist,2-3,Cost-Skill,+2 to Resolve Server Issues,Technician,FlavorTextHere
 Technician,Lois,2-3,Cost-Skill,Instead of working an issue: give another technician +3 skill until end of turn,Technician,FlavorTextHere
-Technician,Negotiator,2-2,Cost-Skill,If you do not assign a card to Negotiator you win ties when bidding on contracts this turn,FlavorTextHere
-Technician,Karen,1-1,Cost-Skill,+1 CSat when failing to resolve an issue,FlavorTextHere
+Technician,Negotiator,2-2,Cost-Skill,If you do not assign a card to Negotiator you win ties when bidding on contracts this turn,Technician,FlavorTextHere
+Technician,Karen,1-1,Cost-Skill,+1 CSat when failing to resolve an issue,Technician,FlavorTextHere
 Contract,Server Wiring Specification,7,Budget,+1 Server Difficulty,Contract,
 Contract,Server Support,4,Budget,Can't Refer Server Issues,Contract,
 ,Record Loss,,,Abandoned Contracts Can be Turned Face Up,Contract,
@@ -116,7 +116,7 @@ Contract,Strict Software Service Level Agreement,7,Budget,During evaluation lose
 Contract,Strict Hardware Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Hardware card in backlog in excess of four,Contract,
 Contract,Strict Network Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Network card in backlog in excess of four,Contract,
 Contract,Strict Server Service Level Agreement,7,Budget,During evaluation lose 1 additional CSat for each Server card in backlog in excess of four,Contract,
-,Budget Cuts,,,Each player loses 1 budget. You may need to fire employees or assets if you no longer have sufficient budget to support,
+,Budget Cuts,,,,Each player loses 1 budget. You may need to fire employees or assets if you no longer have sufficient budget to support,
 Contract,Restrictive Software Procedures,9,Budget,+2 Difficulty of All Software Issues,Contract,
 Contract,Restrictive Hardware Procedures,9,Budget,+2 Difficulty of All Hardware Issues,Contract,
 Contract,Restrictive Network Procedures,9,Budget,+2 Difficulty of All Network Issues,Contract,
