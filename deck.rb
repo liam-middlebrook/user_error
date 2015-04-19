@@ -10,5 +10,5 @@ Squib::Deck.new(cards: 122, layout: 'layout.yml') do
   text range: :all, str: issues['Special'], layout: :Special
   text range: :all, str: issues['Flavor'], layout: :Flavor
 
-  save_pdf file: 'test.pdf', gap: 5
+  save_pdf file: 'test.pdf', gap: 10
 end
