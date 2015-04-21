@@ -5,7 +5,7 @@ AllText:
 
 Title:
   extends: AllText
-  width: 825
+  width: 750
   height: 350
   wrap: true
   y: 15
@@ -35,6 +35,7 @@ Type:
 Flavor:
   extends: Title
   y: += 900
+  font: "italic"
   font_size: 28
   height: 500
   wrap: true
@@ -42,6 +43,7 @@ Flavor:
 Special:
   extends: Flavor
   y: -= 275
+  font: ""
   height: 275
-  font_size: 42
+  font_size: 38
   valign: :middle
