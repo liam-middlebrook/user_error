@@ -5,7 +5,7 @@ AllText:
 
 Title:
   extends: AllText
-  width: 825
+  width: 750
   height: 350
   wrap: true
   y: 15
