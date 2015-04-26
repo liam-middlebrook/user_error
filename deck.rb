@@ -31,13 +31,15 @@ end
 Squib::Deck.new(width: 750, height: 1023, cards: 41, layout: 'asset_layout.yml') do
   background color: '#BEFEEB'
   assets = csv file: 'asset_cards.csv'
-  svg file: assets["icon"], width: 128, height: 128
-  text range: :all, str: assets['Title'], layout: :Title
-  text range: :all, str: assets['Type'], layout: :Type
-  text range: :all, str: assets['StatLabel'], layout: :StatLabel
-  text range: :all, str: assets['Stat'], layout: :Stat
-  text range: :all, str: assets['Special'], layout: :Special
-  text range: :all, str: assets['Flavor'], layout: :Flavor
+  svg file: assets["icon"], layout: :TypeIcon
+  text range: :all, str: assets['Name'], layout: :Name
+  text range: :all, str: assets['CostText'], layout: :CostText
+  text range: :all, str: assets['SkillText'], layout: :SkillText
+  svg file: assets['CostIcon'], layout: :CostIcon
+  svg file: assets['SkillIcon'], layout: :SkillIcon
+  svg file: assets['AuditRiskIcon'], layout: :AuditRiskIcon
+  text range: :all, str: assets['EffectText'], layout: :EffectText
+  text range: :all, str: assets['FlavorText'], layout: :FlavorText
 
   save_pdf file: 'asset_cards.pdf', gap: 5
 end
