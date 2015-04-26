@@ -16,14 +16,12 @@ end
 
 Squib::Deck.new(width: 750, height: 1023, cards: 32, layout: 'business_layout.yml') do
   background color: '#EEE'
-  businesss = csv file: 'business_cards.csv'
-  svg file: businesss["icon"], width: 128, height: 128
-  text range: :all, str: businesss['Title'], layout: :Title
-  text range: :all, str: businesss['Type'], layout: :Type
-  text range: :all, str: businesss['StatLabel'], layout: :StatLabel
-  text range: :all, str: businesss['Stat'], layout: :Stat
-  text range: :all, str: businesss['Special'], layout: :Special
-  text range: :all, str: businesss['Flavor'], layout: :Flavor
+  business = csv file: 'business_cards.csv'
+  svg file: business["icon"], layout: :TypeIcon
+  svg file: business["budget_icon"], layout: :BudgetIcon
+  text range: :all, str: business['Title'], layout: :Title
+  text range: :all, str: business['EffectText'], layout: :EffectText
+  text range: :all, str: business['BudgetText'], layout: :BudgetText
 
   save_pdf file: 'business_cards.pdf', gap: 5
 end

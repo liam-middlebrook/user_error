@@ -1,49 +1,38 @@
 AllText:
-  font: ChunkFive Roman,Sans 72
-  align: center
+  font: ChunkFive Roman,Sans 48
   color: '#031013'
 
 Title:
+  align: center
   extends: AllText
-  width: 750
-  height: 350
+  width: 740
+  height: 200
   wrap: true
+  x: 10
+  y: 150
+
+TypeIcon:
+  x: 0
   y: 15
+  width: 128
+  height: 128
 
-Stat:
-  extends: Title
-  y: 500
-  font_size: 84
-
-StatLabel:
-  extends: Stat
-  y: -= 125
-
-AttackIcon:
-  extends: Stat
-  x: += 75
-  y: -= 15
-  width: 150
-  height: 150
-
-Type:
-  extends: Title
-  y: 1050
+BudgetText:
+  x: 550
+  y: 48
   font_size: 48
-  #angle: 4.712385
 
-Flavor:
-  extends: Title
-  y: += 900
-  font: "italic"
-  font_size: 28
-  height: 500
+BudgetIcon:
+  x: 600
+  y: 15
+  width: 128
+  height: 128
+
+EffectText:
+  extends: AllText
+  font_size: 36
+  y: 400
+  width: 750
+  height: 629
+  align: center
   wrap: true
-
-Special:
-  extends: Flavor
-  y: -= 275
-  font: ""
-  height: 275
-  font_size: 38
-  valign: :middle
