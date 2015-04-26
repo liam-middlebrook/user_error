@@ -3,13 +3,13 @@ require 'squib'
 Squib::Deck.new(width: 750, height: 1023, cards: 50, layout: 'issue_layout.yml') do
   background color: '#D0E6FF'
   issues = csv file: 'issue_cards.csv'
-  svg file: issues["icon"], width: 128, height: 128
+  svg file: issues["icon"], layout: :TypeIcon
+  svg file: issues["usererror_icon"], layout: :DifficultyIcon
   text range: :all, str: issues['Title'], layout: :Title
   text range: :all, str: issues['Type'], layout: :Type
-  text range: :all, str: issues['StatLabel'], layout: :StatLabel
-  text range: :all, str: issues['Stat'], layout: :Stat
-  text range: :all, str: issues['Special'], layout: :Special
-  text range: :all, str: issues['Flavor'], layout: :Flavor
+  text range: :all, str: issues['DifficultyText'], layout: :DifficultyText
+  text range: :all, str: issues['EffectText'], layout: :EffectText
+  text range: :all, str: issues['FlavorText'], layout: :FlavorText
 
   save_pdf file: 'issue_cards.pdf', gap: 5
 end

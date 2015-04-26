@@ -1,51 +1,51 @@
-icon,_type,Title,Stat,StatLabel,Special,Type,Flavor
-,Issue,Software Issue,3,Difficulty,,Software,How many times will they forget their password?
-,Issue,Hardware Issue,3,Difficulty,,Hardware,Plugging in a USB cable always takes three tries.
-,Issue,Network Issue,3,Difficulty,,Network,Someone kicked out their ethernet cable... again.
-,Issue,Server Issue,3,Difficulty,,Server,There is a reason we keep the server room locked.
-,Issue,Software Issue,4,Difficulty,,Software,Your background changing is NOT a virus.
-,Issue,Hardware Issue,4,Difficulty,,Hardware,Kicking your tower is not a good way to relieve stress.
-,Issue,Network Issue,4,Difficulty,,Network,The wifi is not meant for personal browsing.
-,Issue,Server Issue,4,Difficulty,,Server,The server is eating my data!
-,Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
-,Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
-,Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
-,Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
-,Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
-,Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
-,Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
-,Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
-,Issue,Software Issue,6,Difficulty,,Software,FlavorTextHere
-,Issue,Hardware Issue,6,Difficulty,,Hardware,FlavorTextHere
-,Issue,Network Issue,6,Difficulty,,Network,FlavorTextHere
-,Issue,Server Issue,6,Difficulty,,Server,FlavorTextHere
-,Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
-,Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
-,Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
-,Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
-,Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
-,Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
-,Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
-,Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
-,Issue,Critical Software Issue,6,Difficulty,-1 CSat When Failing to Resolve,Software,FlavorTextHere
-,Issue,Critical Hardware Issue,6,Difficulty,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
-,Issue,Critical Network Issue,6,Difficulty,-1 CSat When Failing to Resolve,Network,FlavorTextHere
-,Issue,Critical Server Issue,6,Difficulty,-1 CSat When Failing to Resolve,Server,FlavorTextHere
-,Issue,Multiple User Software Issue,7,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
-,Issue,Multiple User Hardware Issue,7,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
-,Issue,Multiple User Network Issue,7,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
-,Issue,Multiple User Server Issue,7,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
-,Issue,Multiple User Software Issue,8,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
-,Issue,Multiple User Hardware Issue,8,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
-,Issue,Multiple User Network Issue,8,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
-,Issue,Multiple User Server Issue,8,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
-,Issue,Software Issue,,,User Error,Software,"Why don't these toolbars make IE6 faster?"
-,Issue,Hardware Issue,,,User Error,Hardware,"I think this might be a VCR?"
-,Issue,Network Issue,,,User Error,Network,"I'm blocking all the cookies except for snickerdoodle"
-,Issue,Server Issue,,,User Error,Server,"You want to see my server? I haven't even been seated yet!"
-,Issue,Spiders,,,User Error,Spiders,"They built the WorldWideWeb!"
-,Issue,Government Consipracy,,,User Error,Government Conspiracy,"They put it in my computer, because I know too much"
-,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-,Issue,Aliens,,,User Error,Aliens,They are abducting my emails
+usererror_icon,icon,Title,DifficultyText,EffectText,Type,FlavorText
+,,Software Issue,3,,Software,How many times will they forget their password?
+,,Hardware Issue,3,,Hardware,Plugging in a USB cable always takes three tries.
+,,Network Issue,3,,Network,Someone kicked out their ethernet cable... again.
+,,Server Issue,3,,Server,There is a reason we keep the server room locked.
+,,Software Issue,4,,Software,Your background changing is NOT a virus.
+,,Hardware Issue,4,,Hardware,Kicking your tower is not a good way to relieve stress.
+,,Network Issue,4,,Network,The wifi is not meant for personal browsing.
+,,Server Issue,4,,Server,The server is eating my data!
+,,Software Issue,5,,Software,Toolbars that magically appear in your web browser
+,,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
+,,Network Issue,5,,Network,Someone tore the router down from the wall
+,,Server Issue,5,,Server,FlavorTextHere
+,,Software Issue,5,,Software,Toolbars that magically appear in your web browser
+,,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
+,,Network Issue,5,,Network,Someone tore the router down from the wall
+,,Server Issue,5,,Server,FlavorTextHere
+,,Software Issue,6,,Software,FlavorTextHere
+,,Hardware Issue,6,,Hardware,FlavorTextHere
+,,Network Issue,6,,Network,FlavorTextHere
+,,Server Issue,6,,Server,FlavorTextHere
+,,Software Issue,7,,Software,FlavorTextHere
+,,Hardware Issue,7,,Hardware,FlavorTextHere
+,,Network Issue,7,,Network,FlavorTextHere
+,,Server Issue,7,,Server,FlavorTextHere
+,,Software Issue,7,,Software,FlavorTextHere
+,,Hardware Issue,7,,Hardware,FlavorTextHere
+,,Network Issue,7,,Network,FlavorTextHere
+,,Server Issue,7,,Server,FlavorTextHere
+,,Critical Software Issue,6,-1 CSat When Failing to Resolve,Software,FlavorTextHere
+,,Critical Hardware Issue,6,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
+,,Critical Network Issue,6,-1 CSat When Failing to Resolve,Network,FlavorTextHere
+,,Critical Server Issue,6,-1 CSat When Failing to Resolve,Server,FlavorTextHere
+,,Multiple User Software Issue,7,+1 Stability When Resolved,Software,FlavorTextHere
+,,Multiple User Hardware Issue,7,+1 Stability When Resolved,Hardware,FlavorTextHere
+,,Multiple User Network Issue,7,+1 Stability When Resolved,Network,FlavorTextHere
+,,Multiple User Server Issue,7,+1 Stability When Resolved,Server,FlavorTextHere
+,,Multiple User Software Issue,8,+1 Stability When Resolved,Software,FlavorTextHere
+,,Multiple User Hardware Issue,8,+1 Stability When Resolved,Hardware,FlavorTextHere
+,,Multiple User Network Issue,8,+1 Stability When Resolved,Network,FlavorTextHere
+,,Multiple User Server Issue,8,+1 Stability When Resolved,Server,FlavorTextHere
+,,Software Issue,,User Error,Software,Why don't these toolbars make IE6 faster?
+,,Hardware Issue,,User Error,Hardware,I think this might be a VCR?
+,,Network Issue,,User Error,Network,I'm blocking all the cookies except for snickerdoodle
+,,Server Issue,,User Error,Server,You want to see my server? I haven't even been seated yet!
+,,Spiders,,User Error,Spiders,They built the WorldWideWeb!
+,,Government Consipracy,,User Error,Government Conspiracy,"They put it in my computer, because I know too much"
+,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
+,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
+,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
+,,Aliens,,User Error,Aliens,They are abducting my emails
