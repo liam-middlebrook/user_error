@@ -1,124 +1,51 @@
-_type,Title,Stat,StatLabel,Special,Type,Flavor
-Issue,Software Issue,3,Difficulty,,Software,How many times will they forget their password?
-Issue,Hardware Issue,3,Difficulty,,Hardware,Plugging in a USB cable always takes three tries.
-Issue,Network Issue,3,Difficulty,,Network,Someone kicked out their ethernet cable... again.
-Issue,Server Issue,3,Difficulty,,Server,There is a reason we keep the server room locked.
-Issue,Software Issue,4,Difficulty,,Software,Your background changing is NOT a virus.
-Issue,Hardware Issue,4,Difficulty,,Hardware,Kicking your tower is not a good way to relieve stress.
-Issue,Network Issue,4,Difficulty,,Network,The wifi is not meant for personal browsing.
-Issue,Server Issue,4,Difficulty,,Server,The server is eating my data!
-Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
-Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
-Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
-Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
-Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
-Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
-Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
-Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
-Issue,Software Issue,6,Difficulty,,Software,FlavorTextHere
-Issue,Hardware Issue,6,Difficulty,,Hardware,FlavorTextHere
-Issue,Network Issue,6,Difficulty,,Network,FlavorTextHere
-Issue,Server Issue,6,Difficulty,,Server,FlavorTextHere
-Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
-Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
-Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
-Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
-Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
-Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
-Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
-Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
-Issue,Critical Software Issue,6,Difficulty,-1 CSat When Failing to Resolve,Software,FlavorTextHere
-Issue,Critical Hardware Issue,6,Difficulty,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
-Issue,Critical Network Issue,6,Difficulty,-1 CSat When Failing to Resolve,Network,FlavorTextHere
-Issue,Critical Server Issue,6,Difficulty,-1 CSat When Failing to Resolve,Server,FlavorTextHere
-Issue,Multiple User Software Issue,7,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
-Issue,Multiple User Hardware Issue,7,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
-Issue,Multiple User Network Issue,7,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
-Issue,Multiple User Server Issue,7,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
-Issue,Multiple User Software Issue,8,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
-Issue,Multiple User Hardware Issue,8,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
-Issue,Multiple User Network Issue,8,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
-Issue,Multiple User Server Issue,8,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
-Issue,Software Issue,,,User Error,Software,"Why don't these toolbars make IE6 faster?"
-Issue,Hardware Issue,,,User Error,Hardware,"I think this might be a VCR?"
-Issue,Network Issue,,,User Error,Network,"I'm blocking all the cookies except for snickerdoodle"
-Issue,Server Issue,,,User Error,Server,"You want to see my server? I haven't even been seated yet!"
-Issue,Spiders,,,User Error,Spiders,"They built the WorldWideWeb!"
-Issue,Government Consipracy,,,User Error,Government Conspiracy,"They put it in my computer, because I know too much"
-Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
-Issue,Aliens,,,User Error,Aliens,They are abducting my emails
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
-Equipment,Automated Routing System,1,Cost,You may refer up to 2 unassigned issues each turn,Equipment,Makes it someone else's problem
-Equipment,Remote Desktop Service,2,Cost,+2 Skill to Resolve All Software Issues,Equipment,Close your porn before calling for support
-Equipment,Field Service Station,2,Cost,+2 Skill to Resolve All Hardware Issues,Equipment,Like a Bat cave in every office
-Equipment,Network Diagnostic Tools,2,Cost,+2 Skill to Resolve All Network Issues,Equipment,FlavorTextHere
-Equipment,Phone Tree Labyrinth,3,Cost,-1 Cards at Dispatch,Equipment,"To speak to an agent press -1"
-Equipment,Test Server,2,Cost,+2 Skill to Resolve All Server Issues,Equipment,"We should reboot the server. It's become self aware"
-Equipment,Warm Transfer System,4,Cost,Can Immediately Assign Issues Referred to You if You Have Available Technicians,Equipment,"Hi. Can you deal with this one?"
-Technician,Kiesha,1-1,Cost-Skill,Audit Risk. Reduce Csat by 1. Discard issue assigned to Kiesha,Technician,"""Um. . ."" *click*"
-Technician,Jeff,3-4,Cost-Skill,Discard User Errors Assigned to Jeff.  Do Not Gain any Csat from Issues Resolved by Jeff,Technician,"Your computer is not filled with spiders, you're just an idiot"
-Technician,Lucky Technician,1-2,Cost-Skill,Reroll One Failure,Technician,A lot of these issues seem to fix themselves
-Technician,Lucky Technician,1-2,Cost-Skill,Reroll One Failure,Technician,A lot of these issues seem to fix themselves
-Technician,Technician,1-1,Cost-Skill,,Technician,Sometimes you just need an ass to fill the seat
-Technician,Technician,1-1,Cost-Skill,,Technician,Sometimes you just need an ass to fill the seat
-Technician,Technician,1-2,Cost-Skill,,Technician,FlavorTextHere
-Technician,Technician,1-2,Cost-Skill,,Technician,FlavorTextHere
-Technician,Software Specialist,1-1,Cost-Skill,+2 to Resolve Software Issues,Technician,FlavorTextHere
-Technician,Hardware Specialist,1-1,Cost-Skill,+2 to Resolve Hardware Issues,Technician,FlavorTextHere
-Technician,Network Specialist,1-1,Cost-Skill,+2 to Resolve Network Issues,Technician,FlavorTextHere
-Technician,Server Specialist,1-1,Cost-Skill,+2 to Resolve Server Issues,Technician,FlavorTextHere
-Technician,Technician,1-2,Cost-Skill,,Technician,FlavorTextHere
-Technician,CS Student,1-4,Cost-Skill,Audit Risk,Technician,I'm sure I can automate this
-Technician,CS Student,1-4,Cost-Skill,Audit Risk,Technician,I'm sure I can automate this
-Technician,Bruce,1-0,Cost-Skill,"Audit Risk.  Can Refer Any Issue, Regardless of Difficulty or Contracts.",Technician,I'm Bill Gates!
-Technician,Bob,1-0,Cost-Skill,"Audit Risk.  Can Refer Any Issue, Regardless of Difficulty or Contracts.",Technician,"Never trust the banks, those things are scams"
-Technician,Hacker,2-2,Cost-Skill,Audit Risk.  Reduce Stability by 1. Automatically Resolve Issue,Technician,Hack the Planet!
-Technician,Technician,2-4,Cost-Skill,,Technician,FlavorTextHere
-Technician,Technician,2-4,Cost-Skill,,Technician,FlavorTextHere
-Technician,Engineer,3-4,Cost-Skill,Can Reroll one Failure per Turn,Technician,Some people patch out issues. Others redesign from scratch
-Technician,Engineer,3-4,Cost-Skill,Can Reroll one Failure per Turn,Technician,Some people patch out issues. Others redesign from scratch
-Technician,Software Specialist,2-3,Cost-Skill,+2 to Resolve Software Issues,Technician,FlavorTextHere
-Technician,Hardware Specialist,2-3,Cost-Skill,+2 to Resolve Hardware Issues,Technician,FlavorTextHere
-Technician,Network Specialist,2-3,Cost-Skill,+2 to Resolve Network Issues,Technician,FlavorTextHere
-Technician,Server Specialist,2-3,Cost-Skill,+2 to Resolve Server Issues,Technician,FlavorTextHere
-Technician,Software Specialist,2-3,Cost-Skill,+2 to Resolve Software Issues,Technician,FlavorTextHere
-Technician,Hardware Specialist,2-3,Cost-Skill,+2 to Resolve Hardware Issues,Technician,FlavorTextHere
-Technician,Network Specialist,2-3,Cost-Skill,+2 to Resolve Network Issues,Technician,FlavorTextHere
-Technician,Server Specialist,2-3,Cost-Skill,+2 to Resolve Server Issues,Technician,FlavorTextHere
-Technician,Lois,2-3,Cost-Skill,Instead of working an issue: give another technician +3 skill until end of turn,Technician,FlavorTextHere
-Technician,Negotiator,2-2,Cost-Skill,If you do not assign a card to Negotiator you win ties when bidding on contracts this turn,Technician,FlavorTextHere
-Technician,Karen,1-1,Cost-Skill,+1 CSat when failing to resolve an issue,Technician,FlavorTextHere
-Contract,Server Wiring Specification,7,Budget,+1 Server Difficulty,Contract,
-Contract,Server Support,4,Budget,Can't Refer Server Issues,Contract,
-,Record Loss,,,Abandoned Contracts Can be Turned Face Up,Contract,
-Contract,Background Checks,5,Budget,Must Fire All Audit Risks During Evaluation Phase,Contract,
-Contract,No Referrals,5,Budget,You Are Not Allowed to Refer Issues,Contract,
-Contract,No Referrals,5,Budget,You Are Not Allowed to Refer Issues,Contract,
-Contract,No Referrals,5,Budget,You Are Not Allowed to Refer Issues,Contract,
-Contract,No Referrals,5,Budget,You Are Not Allowed to Refer Issues,Contract,
-Contract,Increased Volume,5,Budget,+1 Cards at Dispatch,Contract,
-Contract,Increased Volume,5,Budget,+1 Cards at Dispatch,Contract,
-Contract,Increased Volume,5,Budget,+1 Cards at Dispatch,Contract,
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way,Contract,
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way,Contract,
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way,Contract,
-Contract,Network Support,4,Budget,Can't Refer Network Issues,Contract,
-Contract,Hardware Support,4,Budget,Can't Refer Hardware Issues,Contract,
-Contract,Software Support,4,Budget,Can't Refer Software Issues,Contract,
-Contract,Enhanced Software Procedures,7,Budget,+1 Difficulty of All Software Issues,Contract,
-Contract,Enhanced Hardware Procedures,7,Budget,+1 Difficulty of All Hardware Issues,Contract,
-Contract,Enhanced Network Procedures,7,Budget,+1 Difficulty of All Network Issues,Contract,
-Contract,Enhanced Server Procedures,7,Budget,+1 Difficulty of All Server Issues,Contract,
-Contract,Bugzilla,8, Budget,"During evaluation lose 1 addiional CSat for each card in backlog in excess of four",Contract,
-Contract,Strict Software SLA,7,Budget,During evaluation lose 1 additional CSat for each Software card in backlog in excess of four,Contract,
-Contract,Strict Hardware SLA,7,Budget,During evaluation lose 1 additional CSat for each Hardware card in backlog in excess of four,Contract,
-Contract,Strict Network SLA,7,Budget,During evaluation lose 1 additional CSat for each Network card in backlog in excess of four,Contract,
-Contract,Strict Server SLA,7,Budget,During evaluation lose 1 additional CSat for each Server card in backlog in excess of four,Contract,
-,Budget Cuts,,,,Each player loses 1 budget. You may need to fire employees or assets if you no longer have sufficient budget to support,
-Contract,Restrictive Software Procedures,9,Budget,+2 Difficulty of All Software Issues,Contract,
-Contract,Restrictive Hardware Procedures,9,Budget,+2 Difficulty of All Hardware Issues,Contract,
-Contract,Restrictive Network Procedures,9,Budget,+2 Difficulty of All Network Issues,Contract,
-Contract,Restrictive Server Procedures,9,Budget,+2 Difficulty of All Server Issues,Contract,
-End of Game, End of Game,,,Game Over,End of Game,FlavorTextHere
+icon,_type,Title,Stat,StatLabel,Special,Type,Flavor
+,Issue,Software Issue,3,Difficulty,,Software,How many times will they forget their password?
+,Issue,Hardware Issue,3,Difficulty,,Hardware,Plugging in a USB cable always takes three tries.
+,Issue,Network Issue,3,Difficulty,,Network,Someone kicked out their ethernet cable... again.
+,Issue,Server Issue,3,Difficulty,,Server,There is a reason we keep the server room locked.
+,Issue,Software Issue,4,Difficulty,,Software,Your background changing is NOT a virus.
+,Issue,Hardware Issue,4,Difficulty,,Hardware,Kicking your tower is not a good way to relieve stress.
+,Issue,Network Issue,4,Difficulty,,Network,The wifi is not meant for personal browsing.
+,Issue,Server Issue,4,Difficulty,,Server,The server is eating my data!
+,Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
+,Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
+,Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
+,Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
+,Issue,Software Issue,5,Difficulty,,Software,Toolbars that magically appear in your web browser
+,Issue,Hardware Issue,5,Difficulty,,Hardware,USB cables strangely fit into ethernet ports
+,Issue,Network Issue,5,Difficulty,,Network,Someone tore the router down from the wall
+,Issue,Server Issue,5,Difficulty,,Server,FlavorTextHere
+,Issue,Software Issue,6,Difficulty,,Software,FlavorTextHere
+,Issue,Hardware Issue,6,Difficulty,,Hardware,FlavorTextHere
+,Issue,Network Issue,6,Difficulty,,Network,FlavorTextHere
+,Issue,Server Issue,6,Difficulty,,Server,FlavorTextHere
+,Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
+,Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
+,Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
+,Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
+,Issue,Software Issue,7,Difficulty,,Software,FlavorTextHere
+,Issue,Hardware Issue,7,Difficulty,,Hardware,FlavorTextHere
+,Issue,Network Issue,7,Difficulty,,Network,FlavorTextHere
+,Issue,Server Issue,7,Difficulty,,Server,FlavorTextHere
+,Issue,Critical Software Issue,6,Difficulty,-1 CSat When Failing to Resolve,Software,FlavorTextHere
+,Issue,Critical Hardware Issue,6,Difficulty,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
+,Issue,Critical Network Issue,6,Difficulty,-1 CSat When Failing to Resolve,Network,FlavorTextHere
+,Issue,Critical Server Issue,6,Difficulty,-1 CSat When Failing to Resolve,Server,FlavorTextHere
+,Issue,Multiple User Software Issue,7,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
+,Issue,Multiple User Hardware Issue,7,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
+,Issue,Multiple User Network Issue,7,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
+,Issue,Multiple User Server Issue,7,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
+,Issue,Multiple User Software Issue,8,Difficulty,+1 Stability When Resolved,Software,FlavorTextHere
+,Issue,Multiple User Hardware Issue,8,Difficulty,+1 Stability When Resolved,Hardware,FlavorTextHere
+,Issue,Multiple User Network Issue,8,Difficulty,+1 Stability When Resolved,Network,FlavorTextHere
+,Issue,Multiple User Server Issue,8,Difficulty,+1 Stability When Resolved,Server,FlavorTextHere
+,Issue,Software Issue,,,User Error,Software,"Why don't these toolbars make IE6 faster?"
+,Issue,Hardware Issue,,,User Error,Hardware,"I think this might be a VCR?"
+,Issue,Network Issue,,,User Error,Network,"I'm blocking all the cookies except for snickerdoodle"
+,Issue,Server Issue,,,User Error,Server,"You want to see my server? I haven't even been seated yet!"
+,Issue,Spiders,,,User Error,Spiders,"They built the WorldWideWeb!"
+,Issue,Government Consipracy,,,User Error,Government Conspiracy,"They put it in my computer, because I know too much"
+,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
+,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
+,Issue,Wrong Number,,,Discard Immediately,,"Is your refrigerator running?"
+,Issue,Aliens,,,User Error,Aliens,They are abducting my emails

@@ -7,9 +7,13 @@ install:
 script:
   - pdflatex user_error.tex
   - ruby deck.rb
-  - cp _output/test.pdf card_deck.pdf
+  - cp _output/asset_cards.pdf .
+  - cp _output/business_cards.pdf .
+  - cp _output/issue_cards.pdf .
 addons:
   artifacts:
     paths:
     - user_error.pdf
-    - card_deck.pdf
+    - asset_cards.pdf
+    - business_cards.pdf
+    - issue_cards.pdf
