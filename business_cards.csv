@@ -2,8 +2,8 @@ icon,Title,BudgetText,budget_icon,EffectText
 ,Server Wiring Specification,7,,+1 Server Difficulty
 ,Server Support,4,,Can't Refer Server Issues
 ,Record Loss,,,Abandoned Contracts Can be Turned Face Up
+,Record Loss,,,Abandoned Contracts Can be Turned Face Up
 ,Background Checks,5,,Must Fire All Audit Risks During Evaluation Phase
-,No Referrals,5,,You Are Not Allowed to Refer Issues
 ,No Referrals,5,,You Are Not Allowed to Refer Issues
 ,No Referrals,5,,You Are Not Allowed to Refer Issues
 ,No Referrals,5,,You Are Not Allowed to Refer Issues
@@ -21,13 +21,13 @@ icon,Title,BudgetText,budget_icon,EffectText
 ,Enhanced Network Procedures,7,,+1 Difficulty of All Network Issues
 ,Enhanced Server Procedures,7,,+1 Difficulty of All Server Issues
 ,Bugzilla,8,,During evaluation lose 1 addiional CSat for each card in backlog in excess of four
-,Strict Software SLA,7,,During evaluation lose 1 additional CSat for each Software card in backlog in excess of four
-,Strict Hardware SLA,7,,During evaluation lose 1 additional CSat for each Hardware card in backlog in excess of four
-,Strict Network SLA,7,,During evaluation lose 1 additional CSat for each Network card in backlog in excess of four
-,Strict Server SLA,7,,During evaluation lose 1 additional CSat for each Server card in backlog in excess of four
+,Strict Software SLA,7,,During evaluation lose 1 additional CSat for each Software card in backlog
+,Strict Hardware SLA,7,,During evaluation lose 1 additional CSat for each Hardware card in backlog
+,Strict Network SLA,7,,During evaluation lose 1 additional CSat for each Network card in backlog
+,Strict Server SLA,7,,During evaluation lose 1 additional CSat for each Server card in backlog
 ,Budget Cuts,,,Each player loses 1 budget. You may need to fire employees or assets if you no longer have sufficient budget to support
 ,Restrictive Software Procedures,9,,+2 Difficulty of All Software Issues
 ,Restrictive Hardware Procedures,9,,+2 Difficulty of All Hardware Issues
 ,Restrictive Network Procedures,9,,+2 Difficulty of All Network Issues
 ,Restrictive Server Procedures,9,,+2 Difficulty of All Server Issues
-, End of Game,,,Game Over
+,End of Game,,,This is the last turn of the game. After the evaluation phase the player with the highest CSat wins
