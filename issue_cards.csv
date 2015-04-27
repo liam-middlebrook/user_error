@@ -39,13 +39,13 @@ usererror_icon,icon,Title,DifficultyText,EffectText,Type,FlavorText
 ,,Multiple User Hardware Issue,8,+1 Stability When Resolved,Hardware,FlavorTextHere
 ,,Multiple User Network Issue,8,+1 Stability When Resolved,Network,FlavorTextHere
 ,,Multiple User Server Issue,8,+1 Stability When Resolved,Server,FlavorTextHere
-,,Software Issue,,User Error,Software,Why don't these toolbars make IE6 faster?
-,,Hardware Issue,,User Error,Hardware,I think this might be a VCR?
-,,Network Issue,,User Error,Network,I'm blocking all the cookies except for snickerdoodle
-,,Server Issue,,User Error,Server,You want to see my server? I haven't even been seated yet!
-,,Spiders,,User Error,Spiders,They built the WorldWideWeb!
-,,Government Consipracy,,User Error,Government Conspiracy,"They put it in my computer, because I know too much"
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Software,Why don't these toolbars make IE6 faster?
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Hardware,I think this might be a VCR?
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Network,I'm blocking all the cookies except for snickerdoodle
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Server,You want to see my server? I haven't even been seated yet!
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Spiders,They built the WorldWideWeb!
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Government Conspiracy,"They put it in my computer, because I know too much"
 ,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
 ,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
 ,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
-,,Aliens,,User Error,Aliens,They are abducting my emails
+,,User Error,,Cannot be resolved. Can be referred regardless of skill,Aliens,They are abducting my emails
