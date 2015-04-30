@@ -1,48 +1,48 @@
 usererror_icon,icon,Title,DifficultyText,EffectText,Type,FlavorText
-,,Software Issue,3,,Software,How many times will they forget their password?
-,,Hardware Issue,3,,Hardware,Plugging in a USB cable always takes three tries.
-,,Network Issue,3,,Network,Someone kicked out their ethernet cable... again.
-,,Server Issue,3,,Server,There is a reason we keep the server room locked.
-,,Software Issue,4,,Software,Your background changing is NOT a virus.
-,,Hardware Issue,4,,Hardware,Kicking your tower is not a good way to relieve stress.
-,,Network Issue,4,,Network,The wifi is not meant for personal browsing.
-,,Server Issue,4,,Server,The server is eating my data!
-,,Software Issue,5,,Software,Toolbars that magically appear in your web browser
-,,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
-,,Network Issue,5,,Network,Someone tore the router down from the wall
-,,Server Issue,5,,Server,FlavorTextHere
-,,Software Issue,5,,Software,Toolbars that magically appear in your web browser
-,,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
-,,Network Issue,5,,Network,Someone tore the router down from the wall
-,,Server Issue,5,,Server,FlavorTextHere
-,,Software Issue,6,,Software,FlavorTextHere
-,,Hardware Issue,6,,Hardware,FlavorTextHere
-,,Network Issue,6,,Network,FlavorTextHere
-,,Server Issue,6,,Server,FlavorTextHere
-,,Software Issue,7,,Software,FlavorTextHere
-,,Hardware Issue,7,,Hardware,FlavorTextHere
-,,Network Issue,7,,Network,FlavorTextHere
-,,Server Issue,7,,Server,FlavorTextHere
-,,Software Issue,7,,Software,FlavorTextHere
-,,Hardware Issue,7,,Hardware,FlavorTextHere
-,,Network Issue,7,,Network,FlavorTextHere
-,,Server Issue,7,,Server,FlavorTextHere
-,,Critical Software Issue,6,-1 CSat When Failing to Resolve,Software,FlavorTextHere
-,,Critical Hardware Issue,6,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
-,,Critical Network Issue,6,-1 CSat When Failing to Resolve,Network,FlavorTextHere
-,,Critical Server Issue,6,-1 CSat When Failing to Resolve,Server,FlavorTextHere
-,,Multiple User Software Issue,7,+1 Stability When Resolved,Software,FlavorTextHere
-,,Multiple User Hardware Issue,7,+1 Stability When Resolved,Hardware,FlavorTextHere
-,,Multiple User Network Issue,7,+1 Stability When Resolved,Network,FlavorTextHere
-,,Multiple User Server Issue,7,+1 Stability When Resolved,Server,FlavorTextHere
-,,Multiple User Software Issue,8,+1 Stability When Resolved,Software,FlavorTextHere
-,,Multiple User Hardware Issue,8,+1 Stability When Resolved,Hardware,FlavorTextHere
-,,Multiple User Network Issue,8,+1 Stability When Resolved,Network,FlavorTextHere
-,,Multiple User Server Issue,8,+1 Stability When Resolved,Server,FlavorTextHere
-,,User Error,,Cannot be resolved. Can be referred regardless of skill,Software,Why don't these toolbars make IE6 faster?
-,,User Error,,Cannot be resolved. Can be referred regardless of skill,Hardware,I think this might be a VCR?
-,,User Error,,Cannot be resolved. Can be referred regardless of skill,Network,I'm blocking all the cookies except for snickerdoodle
-,,User Error,,Cannot be resolved. Can be referred regardless of skill,Server,You want to see my server? I haven't even been seated yet!
+,Software.svg,Software Issue,3,,Software,How many times will they forget their password?
+,Hardware.svg,Hardware Issue,3,,Hardware,Plugging in a USB cable always takes three tries.
+,Network.svg,Network Issue,3,,Network,Someone kicked out their ethernet cable... again.
+,Server.svg,Server Issue,3,,Server,There is a reason we keep the server room locked.
+,Software.svg,Software Issue,4,,Software,Your background changing is NOT a virus.
+,Hardware.svg,Hardware Issue,4,,Hardware,Kicking your tower is not a good way to relieve stress.
+,Network.svg,Network Issue,4,,Network,The wifi is not meant for personal browsing.
+,Server.svg,Server Issue,4,,Server,The server is eating my data!
+,Software.svg,Software Issue,5,,Software,Toolbars that magically appear in your web browser
+,Hardware.svg,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
+,Network.svg,Network Issue,5,,Network,Someone tore the router down from the wall
+,Server.svg,Server Issue,5,,Server,FlavorTextHere
+,Software.svg,Software Issue,5,,Software,Toolbars that magically appear in your web browser
+,Hardware.svg,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
+,Network.svg,Network Issue,5,,Network,Someone tore the router down from the wall
+,Server.svg,Server Issue,5,,Server,FlavorTextHere
+,Software.svg,Software Issue,6,,Software,FlavorTextHere
+,Hardware.svg,Hardware Issue,6,,Hardware,FlavorTextHere
+,Network.svg,Network Issue,6,,Network,FlavorTextHere
+,Server.svg,Server Issue,6,,Server,FlavorTextHere
+,Software.svg,Software Issue,7,,Software,FlavorTextHere
+,Hardware.svg,Hardware Issue,7,,Hardware,FlavorTextHere
+,Network.svg,Network Issue,7,,Network,FlavorTextHere
+,Server.svg,Server Issue,7,,Server,FlavorTextHere
+,Software.svg,Software Issue,7,,Software,FlavorTextHere
+,Hardware.svg,Hardware Issue,7,,Hardware,FlavorTextHere
+,Network.svg,Network Issue,7,,Network,FlavorTextHere
+,Server.svg,Server Issue,7,,Server,FlavorTextHere
+,Software.svg,Critical Software Issue,6,-1 CSat When Failing to Resolve,Software,FlavorTextHere
+,Hardware.svg,Critical Hardware Issue,6,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
+,Network.svg,Critical Network Issue,6,-1 CSat When Failing to Resolve,Network,FlavorTextHere
+,Server.svg,Critical Server Issue,6,-1 CSat When Failing to Resolve,Server,FlavorTextHere
+,Software.svg,Multiple User Software Issue,7,+1 Stability When Resolved,Software,FlavorTextHere
+,Hardware.svg,Multiple User Hardware Issue,7,+1 Stability When Resolved,Hardware,FlavorTextHere
+,Network.svg,Multiple User Network Issue,7,+1 Stability When Resolved,Network,FlavorTextHere
+,Server.svg,Multiple User Server Issue,7,+1 Stability When Resolved,Server,FlavorTextHere
+,Software.svg,Multiple User Software Issue,8,+1 Stability When Resolved,Software,FlavorTextHere
+,Hardware.svg,Multiple User Hardware Issue,8,+1 Stability When Resolved,Hardware,FlavorTextHere
+,Network.svg,Multiple User Network Issue,8,+1 Stability When Resolved,Network,FlavorTextHere
+,Server.svg,Multiple User Server Issue,8,+1 Stability When Resolved,Server,FlavorTextHere
+,Software.svg,User Error,,Cannot be resolved. Can be referred regardless of skill,Software,Why don't these toolbars make IE6 faster?
+,Hardware.svg,User Error,,Cannot be resolved. Can be referred regardless of skill,Hardware,I think this might be a VCR?
+,Network.svg,User Error,,Cannot be resolved. Can be referred regardless of skill,Network,I'm blocking all the cookies except for snickerdoodle
+,Server.svg,User Error,,Cannot be resolved. Can be referred regardless of skill,Server,You want to see my server? I haven't even been seated yet!
 ,,User Error,,Cannot be resolved. Can be referred regardless of skill,Spiders,They built the WorldWideWeb!
 ,,User Error,,Cannot be resolved. Can be referred regardless of skill,Government Conspiracy,"They put it in my computer, because I know too much"
 ,,Wrong Number,,Discard Immediately,,Is your refrigerator running?
