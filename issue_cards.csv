@@ -10,11 +10,11 @@ usererror_icon,icon,Title,DifficultyText,EffectText,Type,FlavorText
 ,softwareO.svg,Software Issue,5,,Software,Toolbars that magically appear in your web browser
 ,Hardware.svg,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
 ,Network.svg,Network Issue,5,,Network,Someone tore the router down from the wall
-,Server.svg,Server Issue,5,,Server,FlavorTextHere
+,Server.svg,Server Issue,5,,Server,I don't think the
 ,softwareO.svg,Software Issue,5,,Software,Toolbars that magically appear in your web browser
 ,Hardware.svg,Hardware Issue,5,,Hardware,USB cables strangely fit into ethernet ports
 ,Network.svg,Network Issue,5,,Network,Someone tore the router down from the wall
-,Server.svg,Server Issue,5,,Server,FlavorTextHere
+,Server.svg,Server Issue,5,,Server,Please do not push untested code to production
 ,softwareO.svg,Software Issue,6,,Software,FlavorTextHere
 ,Hardware.svg,Hardware Issue,6,,Hardware,FlavorTextHere
 ,Network.svg,Network Issue,6,,Network,FlavorTextHere
@@ -26,7 +26,7 @@ usererror_icon,icon,Title,DifficultyText,EffectText,Type,FlavorText
 ,softwareO.svg,Software Issue,7,,Software,FlavorTextHere
 ,Hardware.svg,Hardware Issue,7,,Hardware,FlavorTextHere
 ,Network.svg,Network Issue,7,,Network,FlavorTextHere
-,Server.svg,Server Issue,7,,Server,FlavorTextHere
+,Server.svg,Server Issue,7,,Server,The best place for the server is NOT the bathroom
 ,softwareO.svg,Critical Software Issue,6,-1 CSat When Failing to Resolve,Software,FlavorTextHere
 ,Hardware.svg,Critical Hardware Issue,6,-1 CSat When Failing to Resolve,Hardware,FlavorTextHere
 ,Network.svg,Critical Network Issue,6,-1 CSat When Failing to Resolve,Network,FlavorTextHere
