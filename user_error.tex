@@ -1,6 +1,9 @@
 \documentclass[twocolumn]{article}
 \usepackage{hyperref}
 \usepackage{titling}
+\usepackage{graphicx}
+
+\DeclareGraphicsExtensions{.png}
 
 \setlength{\droptitle}{-10em}
 
@@ -40,7 +43,7 @@ Welcome to your job as a manager for an outsourced IT firm! You are going to be 
 
 Start by separating out the business deck, the asset deck, and the issue deck. Find the "end of game" card (it is a business card) and put it aside. Shuffle the three decks separately. Shuffle the "end of game" card into the last 5 cards of the business deck. Place each deck on the table. Place the stability/turn sheet in the center where all players can see it, and place the turn and stability markers at the beginning of their respective tracks.
 
-Each player receives a satisfaction sheet, and places a satisfaction marker at the 0 position on their sheet. Each player also receives 3 budget.
+Each player receives a satisfaction sheet, and places a satisfaction marker at the 0 position on their sheet. Each player also receives 3 budget counters.
 
 The first player marker starts with whomever last called IT or tech support.
 
@@ -48,19 +51,29 @@ The first player marker starts with whomever last called IT or tech support.
 
 Deal a number of asset cards face up on the table equal to 2 $\times$ the number of players. Players take turns starting with the first player and continuing in a counter-clockwise direction, buying a single asset at a time. This continues until no one wants to or is able to buy any more assets. Players are not forced to buy assets, though it is in their best interest to do so.
 
-Once initial acquisition is completed, all remaining asset cards are shuffled back into the asset deck.
+Once initial acquisition is completed, all remaining asset cards are shuffled back into the asset deck. \newline
+
+\includegraphics{asset_example}
+\newline
+\small{Asset Card}
 
 \section*{Winning and Losing}
 
-If at any time the stability marker is at or past the last space on the stability track, all players lose regardless of their satisfaction. Barring that, the game ends when the "end of game" card is played from the business deck, with the player that has the highest customer satisfaction winning.
+If at any time the stability marker is at or past the last space on the stability track, all players lose regardless of their satisfaction and the company goes under due to the chaos. Barring that, the game ends when the "end of game" card is played from the business deck, with the player that has the highest customer satisfaction winning.
+
+Satisfaction is gained by completing issues each turn, and is lost by having issues that are incomplete at the end of your turn.
 
 \section*{Phases}
 
-Once initial acquisition is completed, play continues with the following phases for the rest of the game.
+Once initial acquisition is completed, play continues with the following phases for the rest of the game: \emph{Dispatch}, \emph{Troubleshooting}, \emph{Negotiation}, and \emph{Evaluation}.
 
 \subsection*{Dispatch}
 
-Players are dealt a number of issues corresponding to the current row the stability marker is at into their backlog. Players may assign at most one issue per technician.
+Players are dealt a number of issues corresponding to the current row the stability marker is at into their backlog (their hand). Players may assign at most one issue per technician. Issues should stay visible to all players, even if in a backlog. \newline
+
+\includegraphics[scale=1]{issue_example}
+\newline
+\small{Issue Card}
 
 \subsection*{Troubleshooting}
 
@@ -91,7 +104,11 @@ If a player does not want to bid, they must announce it before bidding commences
 
 If there is a tie, the player with the least contracts wins the bidding. If there is still a tie, a dice roll breaks the tie.
 
-This phase happens twice, but a player may only win a contract once.
+This phase happens twice, but a player may only win a contract once. \newline
+
+\includegraphics{business_example}
+\newline
+\small{Business Card}
 
 \subsubsection*{Audits}
 
@@ -110,8 +127,6 @@ If a non-contract is drawn and discarded, replace it with another card from the 
 \subsection*{Acquisition}
 
 A number of asset cards equal to the number of players are dealt face-up onto the table. Players take turns purchasing assets with unused budget starting with the first player and continuing clockwise. Once an asset is purchased, another asset should be dealt onto the table to replace it. This phase continues until there are no more players willing to purchase assets. At the end of the phase, all remaining assets are discarded.
-
-\pagebreak
 
 \subsection*{Evaluation}
 
