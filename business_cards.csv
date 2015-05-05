@@ -10,9 +10,9 @@ Contract.svg,No Referrals,5,budget.svg,You Are Not Allowed to Refer Issues
 Contract.svg,Increased Volume,5,budget.svg,+1 Cards at Dispatch
 Contract.svg,Increased Volume,5,budget.svg,+1 Cards at Dispatch
 Contract.svg,Increased Volume,5,budget.svg,+1 Cards at Dispatch
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
-,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
+audit.svg,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
+audit.svg,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
+audit.svg,Audit,,,Discard all Face-Down Contracts and Audit Risks. -1 Csat for Each Card Discarded in this Way
 Contract.svg,Network Support,4,budget.svg,Can't Refer Network Issues
 Contract.svg,Hardware Support,4,budget.svg,Can't Refer Hardware Issues
 Contract.svg,Software Support,4,budget.svg,Can't Refer Software Issues
