@@ -8,13 +8,8 @@ install:
 script:
   - pdflatex user_error.tex
   - ruby deck.rb
-  - cp _output/asset_cards.pdf .
-  - cp _output/business_cards.pdf .
-  - cp _output/issue_cards.pdf .
+  - zip UserError.zip _output/asset_cards.pdf _output/business_cards.pdf _output/issue_cards.pdf CSat_Board.jpg stability_board.jpg user_error.pdf
 addons:
   artifacts:
     paths:
-    - user_error.pdf
-    - asset_cards.pdf
-    - business_cards.pdf
-    - issue_cards.pdf
+    - UserError.zip
